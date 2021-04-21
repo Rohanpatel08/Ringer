@@ -14,9 +14,8 @@ FEATURES:
 •	Login
 •	Registration
 •	E-mail verification
+•	OTP Authentication
 •	Play Music
 •	Store Music
-•	Many more…
 
 
-Project is an under development right now.
